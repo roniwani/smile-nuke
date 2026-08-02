@@ -25,4 +25,4 @@ async def smile(ctx):
             pass
     await ctx.send("完了")
 
-bot.run("YOUR_BOT_TOKEN")
+bot.run("MTUzMzI3MDU2NzE3NDU0MTYxNA.GMnsAM.uBVNhpapQR3s_dCmUYEOhRJhGvwIyHr0YuttFM")
