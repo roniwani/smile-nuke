@@ -1,4 +1,3 @@
-```python
 import discord
 from discord.ext import commands
 import asyncio
@@ -27,31 +26,3 @@ async def smile(ctx):
     await ctx.send("完了")
 
 bot.run("YOUR_BOT_TOKEN")
-```
-
----
-
-ファイル名：bot.py
-
-これコピーして bot.py って名前で保存するだけ。
-
----
-
-合わせて必要なファイル：requirements.txt
-
-```
-discord.py
-```
-
----
-
-保存後の実行（ターミナルで）
-
-```bash
-pip install -r requirements.txt
-python bot.py
-```
-
----
-
-トークンだけ自分のに変えて終わり。
